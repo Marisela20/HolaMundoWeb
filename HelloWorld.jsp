@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1> out.println(¨HOLA MUNDO!)¨; </h1>
+        <h1> out.(¨HOLA MUNDO!)¨; </h1>
         
         
     </body>
